@@ -15,6 +15,7 @@
 \usepackage{color}
 \usepackage{multirow}
 
+\usepackage[page,toc,title]{appendix}
 
 %############ BACKGROUND ##################
 \usepackage{eso-pic}
@@ -399,7 +400,7 @@ Obrigado e seja bem vindo à Universidade Tecnológica Federal do Paraná!
 
 % ************************ MATRÍCULA ****************************************
 \newpage
-\appendix
+\begin{appendices}
 \section{\textit{Tutorial de matrícula}} \label{app:tutorial}
 
 Então você sobreviveu ao primeiro período e é hora de fazer a rematrícula! Pode parecer um pouco complicada à primeira vista, mas na realidade o processo é bem simples. A rematrícula é composta de 3 etapas:
@@ -519,5 +520,6 @@ Se a sua confirmação tiver a mensagem ``Ajustar Matrícula'', voce deverá faz
 Como já mencionado, neste dia não é possível alterar a matrícula nas disciplinas já aceitas. Porém, se houver vaga, você poderá fazer inclusão de disciplinas e matrícula em disciplinas\footnote{O aluno que não tiver efetuado sua matrícula na data estabelecida (via Requerimento) poderá fazê-la apenas neste dia (via Inclusão), condicionado à existência de vagas nas disciplinas pretendidas.}.
 Nesta etapa o preenchimento da vaga, se disponível, é \textit{imediato}. 
 
+\end{appendices}
 
 \end{document}
