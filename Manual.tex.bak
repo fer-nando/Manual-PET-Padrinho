@@ -88,7 +88,7 @@ Elaborado pelos integrantes do grupo PET de Engenharia de Computação, este man
 
 
 	\begin{figure}[ht!]  \centering
-		\includegraphics[scale=1]{calouro.jpg}
+		\includegraphics[scale=1]{figLeyza/calouro.jpg}
 		\caption{Com esse manual, esperamos evitar que você passe por esta situação :-) }
 		\label{fig01}
 	\end{figure}
@@ -102,9 +102,9 @@ Elaborado pelos integrantes do grupo PET de Engenharia de Computação, este man
 A Sede Central do Campus Curitiba da UTFPR é relativamente pequena, pois ocupa apenas uma quadra. Apesar disso, no começo, é comum não encontrar alguns lugares aonde se deseja ir. Logo você se acostuma :-) !
 
 \begin{figure}[ht!]  \centering
-		\includegraphics[scale=0.5]{calouro1.jpg}
+		\includegraphics[scale=0.5]{figLeyza/calouro1.jpg}
 		%\caption{Calouro}
-		\label{fig02}
+		\label{fig01}
 	\end{figure}
 
 Incluímos neste mapa resumido alguns lugares que consideramos importantes para os calouros do DAINF. São eles:
@@ -112,7 +112,7 @@ Incluímos neste mapa resumido alguns lugares que consideramos importantes para 
 	\begin{figure}[ht!]  \centering
 		\includegraphics[scale=0.7]{mapa.png}
 		\caption{Mapa do Campus Curitiba Centro}
-		\label{fig03}
+		\label{fig01}
 	\end{figure}
 
 
@@ -159,7 +159,7 @@ Recomendações importantes (texto elaborado pelo prof. Adolfo):
 \item Alguns alunos acabam usando a rede cabeada para os seus notebooks. Neste caso, o aluno deve colocar o cabo novamente no PC antes de sair de sala. Cuide com a ``travinha'' existente no RJ45. Todos os pontos de rede foram arrumados, porém os técnicos do RLE identificaram que grande  parte dos problemas de conexão das máquinas se devia a conectores sem a travinha, o que ocasionava a queda do cabo e a inevitável desconexão.
 \item Os alunos não devem empurrar as mesas ou as remover da posição original. Existe cabeamento passando pelas canaletas e se as mesas de deslocam há a possibilidade de danificar os cabos.
 \item Qualquer cliente \textit{torrent} poderá resultar no bloqueio da máquina na rede.
-\item O login será feito através do mesmo login/senha utilizado para o sistema acadêmico (ver Seção~\ref{sec:portal}). Esta informação se encontra na confirmação de matrícula. Não esquecer também que é necessário colocar o ``a'' na frente do número de matrícula.
+\item O login será feito através do mesmo login/senha utilizado para o sistema acadêmico (ver Seção~\ref{sec:portal}). Esta informação se encontra na confirmação de matrícula. Não esquecer também que é necessário colocar o "a" na frente do número de matrícula.
 \end{itemize}
 
 \subsection{Wi-fi}
@@ -436,7 +436,7 @@ Por fim, lembre-se que:
 \end{itemize}
 
 \begin{figure}[ht!]  \centering
-		\includegraphics[scale=0.7]{desculpa.jpg}
+		\includegraphics[scale=0.4]{figLeyza/desculpa.jpg}
 		\caption{Isso não será desculpa!! :-) }
 	\end{figure}
 
